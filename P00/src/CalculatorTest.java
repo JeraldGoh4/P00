@@ -21,6 +21,7 @@ public class CalculatorTest {
 	}
 	@Test
 	public final void testAdd() {
+		//fail("Not yet implemented");
 		int a=1234;
 		int b=8765;
 		
@@ -32,6 +33,7 @@ public class CalculatorTest {
 	}
 	@Test
 	public final void testSubtract() {
+		//fail("Not yet implemented");
 		int a=9876;
 		int b=4321;
 		
@@ -43,6 +45,7 @@ public class CalculatorTest {
 	}
 	@Test
 	public final void testDivide(){
+		//fail("Not yet implemented");
 		int a=900;
 		int b=90;
 		
@@ -55,6 +58,7 @@ public class CalculatorTest {
 	}
 	@Test
 	public final void testMultiply() {
+		//fail("Not yet implemented");
 		int a=9000;
 		int b=9;
 		
